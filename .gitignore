@@ -102,3 +102,42 @@ dist
 
 # TernJS port file
 .tern-port
+
+
+
+###not sure (Jabir)
+package-lock.json
+
+
+
+
+######################################## Idea Webstorm    #############################################
+### WebStorm ###
+
+.idea/*
+
+## User-specific stuff
+#.idea/**/workspace.xml
+#.idea/**/tasks.xml
+#.idea/**/usage.statistics.xml
+#.idea/**/dictionaries
+#.idea/**/shelf
+#
+#.idea/modules.xml
+#.idea/*.iml
+#.idea/modules
+#
+#
+#
+## IntelliJ
+#out/
+#
+## Editor-based Rest Client
+#.idea/httpRequests
+#
+#### WebStorm Patch ###
+#
+# *.iml
+# modules.xml
+# .idea/misc.xml
+# *.ipr
